@@ -1,0 +1,5 @@
+1 -# Entrada Leia  e Armazene o numero que deseja multiplicar por 9 
+2 -# Processamento Subtrair (n-1) e Armazene como o primeiro digito = n1
+3 -# Processamento Subtrair (10-n) e Armazene como segundo digito = n2 
+4 -# Processamento Realize a expressão (n1 x 10) + n2 e armazene como resultado final = Resultado
+5 -# Saida Imprima valor de Resultado e encerre o programa
